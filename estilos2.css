@@ -1,0 +1,18 @@
+body {
+    background-color: azure;
+    margin-right: 50px ;
+    margin-left: 50px ;
+    border: 50px ;
+}
+h1 {
+    font-size: 100px ;
+    margin-left: 400px;
+    margin-right: 500px;
+    font-family:Cambria;
+    color: rgb(93, 136, 255);
+}
+
+h2 {
+    font-size: 100px;
+    
+}
