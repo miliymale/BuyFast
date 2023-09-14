@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(172, 136, 150);
+    margin-right: 50px ;
+    margin-left: 50px ;
+    border: 50px ;
+    
+ }
+ h1 {
+     padding: 10px;
+     color: black;
+     font-size: 60px ;
+     font-family: Cambria;
+     
+ }
+ h3 {
+     color: #566573; 
+     font-family: system-ui ;
+ }
+ 
+ a {
+     font-family: system-ui;
+     color: blue;
+ }
+ h2 {
+    padding: 10px;
+    color: black;
+    font-size: 40px ;
+    font-family: Cambria;
+    }
+ 
